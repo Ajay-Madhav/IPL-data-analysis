@@ -16,4 +16,6 @@ Key Performance Indicators:<br/>
 •	Slicers & Filters<br/>
 •	Cards, Tables, Line Charts, Bar Charts, Pie Charts<br/>
 ## PowerBI Dashboard
-<img width="1051" height="566" alt="image" src="https://github.com/user-attachments/assets/6522c5ff-2c59-4f2b-9920-c089c9f88fc8" />
+<img width="1051" height="566" alt="image" src="https://github.com/user-attachments/assets/6522c5ff-2c59-4f2b-9920-c089c9f88fc8" /><br/>
+<img width="1361" height="735" alt="image" src="https://github.com/user-attachments/assets/dd5c3b18-cd7b-4d6f-b5aa-58171c0f4fc2" />
+
