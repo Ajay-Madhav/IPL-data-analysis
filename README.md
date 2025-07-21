@@ -15,3 +15,5 @@ Key Performance Indicators:<br/>
 •	DAX Measures<br/>
 •	Slicers & Filters<br/>
 •	Cards, Tables, Line Charts, Bar Charts, Pie Charts<br/>
+## PowerBI Dashboard
+<img width="1051" height="566" alt="image" src="https://github.com/user-attachments/assets/6522c5ff-2c59-4f2b-9920-c089c9f88fc8" />
